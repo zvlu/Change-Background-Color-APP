@@ -4,7 +4,7 @@ const bodybckgrnd = document.querySelector('body');
 
 //Array that hold colors
 
-const color = ['yellow','green','red','#3b5998'];
+const color = ['black','green','red','gold'];
 
 colorBtn.addEventListener('click', changecolor);
 
